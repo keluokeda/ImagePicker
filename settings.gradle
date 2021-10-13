@@ -8,4 +8,4 @@
 //}
 rootProject.name = "image_picker"
 include ':app'
-include ':image_picker'
+include ':lib'
